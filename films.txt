@@ -562,7 +562,7 @@ Green Wing 2004 Зеленое крыло (кинопоиск рекоменда
 Зомболодка! (сериал 2019) Zomboat! -
 Скотт Пилигрим против всех 2010 Scott Pilgrim vs. the World +.
 Тронутые (2014) — The Road Within (кинопоиск рекомендации) -
-Peep Show s01e03 +
+Peep Show s01e06 +
 Kidnapping Stella netflix (флокал OlegA) -
 Убойные каникулы 2010  Tucker and Dale vs Evil (кинопоиск рекомендации) +-
 Воин Warrior 2011 (кинопоиск 168) -
@@ -579,6 +579,9 @@ An American Pickle (спрут) +-
 On laptop:
     True Blood (спрут)
     Who Is America (флокал)
+    Vivarium (2019) (флокал)
+    Mythic Quest Raven's Banquet (хабр)
+    To the Lake (Прокоп)
 
 Found:
     Октябрьское небо October Sky 1999 (кинопоиск 186)
@@ -633,7 +636,6 @@ Found:
  Под покровом ночи (2016) — Nocturnal Animals (Yar герои 3)
  Враг (2013) — Enemy (Yar герои 3)
  Левша (2015) — Southpaw  (Yar герои 3)
- Vivarium (2019) (флокал)
  Офицер и шпион 2019 J'accuse (кинопоиск рекомендации)
  В доме 2012 Dans la maison (кинопоиск рекомендации)
  100 вещей и ничего лишнего | 100 Dinge | 2018 (кинопоиск рекомендации)
@@ -658,6 +660,7 @@ Found:
  Моя прекрасная леди 1964
  Есть мечты — будут и путешествия 2007 Have Dreams, Will Travel
  Привет, Джули! 2010 Flipped
+ Лимита 1994 Первый отечественный фильм про хакеров. (хабр)
 
 
  Con Air 1997 (густавсон)
