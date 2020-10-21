@@ -577,6 +577,7 @@ An American Pickle (спрут) +-
 Vivarium (2019) Виварий (флокал) +-
 Гуд бай, Берлин! 2016 Tschick +-
 Лимита 1994 Первый отечественный фильм про хакеров. (хабр) -+
+The social dilemma (лебедев) -+
 
 
 On laptop:
@@ -662,7 +663,6 @@ Found:
  Моя прекрасная леди 1964
  Есть мечты — будут и путешествия 2007 Have Dreams, Will Travel
  Привет, Джули! 2010 Flipped
- The social dilemma (лебедев)
  Как отмыть миллион 2018 La chute de l'empire américain (кинопоиск рекомендации)
 
 
