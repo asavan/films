@@ -578,13 +578,12 @@ Vivarium (2019) Виварий (флокал) +-
 Гуд бай, Берлин! 2016 Tschick +-
 Лимита 1994 Первый отечественный фильм про хакеров. (хабр) -+
 The social dilemma (лебедев) -+
-Мистический квест: Пир ворона 2020 Mythic Quest: Raven's Banquet s01e01 +.
+Мистический квест: Пир ворона 2020 Mythic Quest: Raven's Banquet s01e10 (хабр) +.
 
 
 On laptop:
     True Blood (спрут)
     Who Is America (флокал)
-    Mythic Quest Raven's Banquet (хабр)
     To the Lake (Прокоп)
 
 Found:
