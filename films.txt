@@ -586,6 +586,7 @@ Fargo s04e06 -+
 Who Is America s01e01 (флокал) -+
 Белый плен Eight Below 2006 (кинопоиск 173) +-
 The Raid 2: Berandal 2014 Рэйд 2 -+
+Как отмыть миллион 2018 La chute de l'empire américain (кинопоиск рекомендации) +-
 
 
 On laptop:
@@ -594,6 +595,10 @@ Found:
     Октябрьское небо October Sky 1999 (кинопоиск 186)
     Невидимая сторона The Blind Side 2009 (кинопоиск 125)
     Жизнь Дэвида Гейла The Life of David Gale 2002 (кинопоиск 136)
+    Пришельцы | Les Visiteurs | The Visitors | 1993
+    Пришельцы 2: Коридоры времени| The Visitors II: The Corridors of Time | Les Couloirs du temps : Les Visiteurs II | 1998
+    Пришельцы в Америке | Just Visiting | 2001
+    Пришельцы 3: Взятие Бастилии | The Visitors: Bastille Day | Les visiteurs: La révolution | 2016
 
 Сериалы:
     Субура https://www.kinopoisk.ru/series/1048422/ 2017 (густавсон)
@@ -667,7 +672,6 @@ Found:
  Моя прекрасная леди 1964
  Есть мечты — будут и путешествия 2007 Have Dreams, Will Travel
  Привет, Джули! 2010 Flipped
- Как отмыть миллион 2018 La chute de l'empire américain (кинопоиск рекомендации)
  Откройте, полиция! (1984) – Les ripoux (флокал Гоно)
 
  Con Air 1997 (густавсон)
