@@ -579,7 +579,7 @@ Vivarium (2019) Виварий (флокал) +-
 Лимита 1994 Первый отечественный фильм про хакеров. (хабр) -+
 The social dilemma (лебедев) -+
 Мистический квест: Пир ворона 2020 Mythic Quest: Raven's Banquet s01e10 (хабр) +.
-Fargo s04e07 -+
+Fargo s04e08 -+
 Пророк 2009 Un prophète +.
 Эпидемия 2018 To the Lake s01e01 (Прокоп) -
 Настоящая кровь True Blood s01e03 (спрут) -+ 
@@ -601,15 +601,17 @@ Princess of Thieves 2001 Дочь Робин Гуда: Принцесса вор
 Ход королевы (2020) – The Queen's Gambit (факлак) s01e07 +.
 Robin Hood 2018 Робин Гуд: Начало -+
 метод 1996 the method -+
+ABC murders 2018 Убийства по алфавиту (миша) s01e03 +-
+Пуаро Агаты Кристи 1992 Убийства по алфавиту s04e01 +-
 
 
 On laptop:
     Robin Hood of El Dorado 1936 Робин Гуд из Эльдорадо
     Последняя любовь на Земле 2011 Perfect Sense
-    ABC murder (миша)
 
 Found:
     Жизнь Дэвида Гейла The Life of David Gale 2002 (кинопоиск 136)
+    Midnight Run (флокал)
 
 Сериалы:
     Субура https://www.kinopoisk.ru/series/1048422/ 2017 (густавсон)
@@ -690,6 +692,7 @@ Found:
  Хэви трип (миша)
  Робин Гуд 2010
  Фанатик 2001 The Believer (демон)
+ Man on fire (флокал)
  
 
  Con Air 1997 (густавсон)
