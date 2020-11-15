@@ -603,15 +603,17 @@ Robin Hood 2018 Робин Гуд: Начало -+
 метод 1996 the method -+
 ABC murders 2018 Убийства по алфавиту (миша) s01e03 +-
 Пуаро Агаты Кристи 1992 Убийства по алфавиту s04e01 +-
+Robin Hood of El Dorado 1936 Робин Гуд из Эльдорадо -+
 
 
 On laptop:
-    Robin Hood of El Dorado 1936 Робин Гуд из Эльдорадо
     Последняя любовь на Земле 2011 Perfect Sense
 
 Found:
     Жизнь Дэвида Гейла The Life of David Gale 2002 (кинопоиск 136)
-    Midnight Run (флокал)
+    Midnight Run (флокал) 
+    Отрочество 2014 Boyhood (кинопоиск рекомендации)
+    Хэви трип (миша)
 
 Сериалы:
     Субура https://www.kinopoisk.ru/series/1048422/ 2017 (густавсон)
@@ -630,6 +632,8 @@ Found:
     Пианино (мини–сериал 2019 – ...) Upright (кинопоиск рекомендации)
     Венская кровь (миша) https://www.kinopoisk.ru/series/1302026/
     Эврика (миша) https://www.kinopoisk.ru/series/262963/
+    fauda netflix (лоренс трент)
+    Tehran ? (густавсон)
 
 Еще не вышли:
     Tenet 2020 (густавсон)
@@ -667,8 +671,7 @@ Found:
  В доме 2012 Dans la maison (кинопоиск рекомендации)
  100 вещей и ничего лишнего | 100 Dinge | 2018 (кинопоиск рекомендации)
  Свистуны 2019 La Gomera (кинопоиск рекомендации)
- Escape from Pretoria 2020 (кинопоиск рекомендации) 
- Отрочество 2014 Boyhood (кинопоиск рекомендации)
+ Escape from Pretoria 2020 (кинопоиск рекомендации)
  Кристофер Робин 2018 Christopher Robin (кинопоиск рекомендации)
  Собачья жизнь 2017 A Dog's Purpose (кинопоиск рекомендации)
  Счастливый Лазарь 2018 Lazzaro felice (кинопоиск рекомендации)
@@ -689,11 +692,11 @@ Found:
  Откройте, полиция! (1984) – Les ripoux (флокал Гоно)
  Ливень 1997 Hard Rain
  Охота на воров 2018 Den of Thieves
- Хэви трип (миша)
  Робин Гуд 2010
  Фанатик 2001 The Believer (демон)
  Man on fire (флокал)
- 
+ Тормоз The Cooler (густавсон)
+ in china they eat dogs (густавсон)
 
  Con Air 1997 (густавсон)
  The Rock 1996 (густавсон) nicolas cage
