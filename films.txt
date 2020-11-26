@@ -579,7 +579,7 @@ Vivarium (2019) Виварий (флокал) +-
 Лимита 1994 Первый отечественный фильм про хакеров. (хабр) -+
 The social dilemma (лебедев) -+
 Мистический квест: Пир ворона 2020 Mythic Quest: Raven's Banquet s01e10 (хабр) +.
-Fargo s04e09 -+
+Fargo s04e10 -+
 Пророк 2009 Un prophète +.
 Эпидемия 2018 To the Lake s01e01 (Прокоп) -
 Настоящая кровь True Blood s01e03 (спрут) -+ 
@@ -653,7 +653,6 @@ Found:
     Ri zi Дни 2020 https://www.kinopoisk.ru/film/1343913/ (Долин)
 
 Сериалы не вышли:
-    fargo 4 (апрель 2020)
     The Great 2020 (hulu) https://www.kinopoisk.ru/series/666955/ (кто-то  советует густавсону)
     netflix documentary Винер (Weiner) (густавсон)
     toy boy 2019 (top boy?) (лоренс трент)
