@@ -617,6 +617,7 @@ I Kina spiser de hunde | in china they eat dogs |  Быстрые стволы |
 sour grapes (густавсон) 2016? Кислый виноград +.
 Псих 2020 (лебедев) s01e01 -.
 Tenet 2020 Довод (густавсон) +-
+Ted Lasso (густавсон) s01e01 -
 
 
 On laptop:
@@ -650,7 +651,6 @@ Found:
     Мост
     The Mentalist
     Дефективный детектив (2002) — Monk
-    Ted Lasso (густавсон)
 
 Еще не вышли:
     the secret (кто-то советует густавсону)
@@ -716,6 +716,8 @@ Found:
  Шоа́ (фр. Shoah) (долин)
  Constantine (густавсон)
  Demolition Man(густавсон)
+ Mank (Петр)
+ The Trial of the Chicago 7
 
  Con Air 1997 (густавсон)
  The Rock 1996 (густавсон) nicolas cage
