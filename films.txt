@@ -637,7 +637,7 @@ Zakon i Besporyadok (слон) s01e05 +-
 Шарлатаны (2017) – Quacks (кинопоиск) s01e01 -+
 Общество любителей Москвы -+
 Tin Star (Серж) s01e04 -+
-Энджи Трайбека (2016) – Angie Tribeca s01e02 (слон) +.
+Энджи Трайбека (2016) – Angie Tribeca s01e04 (слон) +.
 Клуб неудачников (2011) – Kaybedenler Kulübü (кинопоиск) +-
 Четыре льва (2010) – Four Lions (кинопоиск) +.
 Уэйн 2019 Wayne (кинопоиск) s01e01 -+
@@ -648,13 +648,13 @@ great heist | El robo del siglo | Ограбление века | 2020 s01e01 -+
 Banlieue 13 Ultimatum | 2009 | 13-й район: Ультиматум -+
 Откройте, полиция! (1984) – Les ripoux (флокал Гоно) +-
 Escape from Pretoria 2020 Побег из Претории (кинопоиск рекомендации) +-
+Микмакс или «Неудачники» (фр. Micmacs à tire-larigot) (флокал) -+
 
 
 On laptop:
-    Микмакс или «Неудачники» (фр. Micmacs à tire-larigot) (флокал)
+    In the Loop 2009 В петле (кинопоиск)
 
 Found:
-    In the Loop 2009 В петле (кинопоиск)
     Берта по прозвищу «Товарный вагон» Boxcar Bertha (комменты к бондареву)
     Американская дочь (флокал)
 
@@ -747,6 +747,7 @@ Found:
  Поезд сквозь снег (Лёня)
  Yesterday (2019)
  Where to Invade Next 2015 (кинопоиск)
+ Рождество, опять (2014) – Christmas, Again (ТЖ)
 
  Con Air 1997 (густавсон)
  The Rock 1996 (густавсон) nicolas cage
