@@ -196,7 +196,7 @@ Downsizing -
 The Square (420 с форума) +
 ангелы революции (2014) -
 Субурбикон -
-Разрушитель (1993) +-
+Разрушитель (1993) Demolition Man (густавсон) +-
 я худею? (денис чужой) +
 The Disaster Artist (фильм про комнату) +-
 лунный папа -+
@@ -661,16 +661,16 @@ The Master | 2012 | Мастер, 8/10 - прикольный неожиданн
 Стюардесса | Бортпроводница | 2020 | The Flight Attendant | (Пенни) s01e02 -+
 Поезд в Пусан 2016 Busanhaeng (кинопоиск рекомендации) +-
 В поле зрения (2011) Person of Interest s01e02 -.
+Au poste! | 2018 | На посту | Допрос (кинопоиск рекомендации) -+
 
 
 On laptop:
-    How to Rob a Bank (and 10 Tips to Actually Get Away with It) 2007 Как ограбить банк
-    Охота на воров 2018 Den of Thieves
-    Au poste! | 2018 | На посту | Допрос (кинопоиск рекомендации)
-
-Found:
+    How to Rob a Bank (and 10 Tips to Actually Get Away with It) 2007 Как ограбить банк +.
+    Охота на воров 2018 Den of Thieves +-
     Ливень 1997 Hard Rain
     The Great 2020 (hulu) https://www.kinopoisk.ru/series/666955/ (кто-то  советует густавсону)
+
+Found:
     Гора девственности 2014 Fúsi (кинопоиск рекомендации)
     Соучастник 2004 Collateral
 
@@ -746,7 +746,6 @@ Found:
  Перевал Кассандры (1976) – The Cassandra Crossing (долин)
  Проверка на дорогах 1971 (долин)
  Шоа́ (фр. Shoah) (долин)
- Demolition Man(густавсон)
  The Trial of the Chicago 7
  Сердца четырех 1941
  Поезд сквозь снег (Лёня)
@@ -755,6 +754,7 @@ Found:
  Деликатесы 1990 Delicatessen
  Талли (2017) – Tully (флокал)
  "Jauja" Лисандро Алонсо, тоже медленный аргентинский (флокал)
+ "Адела еще не ужинала" (Adéla jeste nevecerela) 1978г (флокал)
 
  Con Air 1997 (густавсон)
  The Rock 1996 (густавсон) nicolas cage
