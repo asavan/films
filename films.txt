@@ -689,6 +689,7 @@ Other People's Money ("Чужие деньги") (ТЖ) +-
 Гангстер 2007 American Gangster (ТЖ) +-
 Ночные игры 2018 Game Night (кинопоиск рекомендации) +-
 The Intern 2015 Интерн (кинопоиск 241) -+
+Терминатор 1984 The Terminator (кинопоиск 218) +-
 
 
 On laptop:
@@ -699,7 +700,6 @@ Found:
     Лошак. Полное затмение (Дудь)
     Джой (2015) — Joy (людвиг быстроновский, ТЖ)
     The Lincoln Lawyer (кинопоиск 186)
-    Terminator (кинопоиск 218)
 
 Сериалы:
     Субура https://www.kinopoisk.ru/series/1048422/ 2017 (густавсон)
