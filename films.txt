@@ -701,14 +701,15 @@ The Intern 2015 Интерн (кинопоиск 241) -+
 Парни со стволами 2016 War Dogs (ТЖ) +-
 Свистуны 2019 La Gomera (кинопоиск рекомендации) +.
 Суд над чикагской семеркой 2020 The Trial of the Chicago 7 +-
+Счастливый Лазарь 2018 Lazzaro felice (кинопоиск рекомендации) +.
 
 
 On laptop:
-    Счастливый Лазарь 2018 Lazzaro felice (кинопоиск рекомендации)
 
 Found:
     Тупой и еще тупее 1994 Dumb and Dumber
-    Адела еще не ужинала 1977 (1978) Adéla jeste nevecerela (флокал)
+    Адела еще не ужинала 1977 (1978) Adéla jeste nevecerela (флокал) 
+    Гаттака 1997 Gattaca (кинопоиск 235)
 
 Сериалы:
     Субура https://www.kinopoisk.ru/series/1048422/ 2017 (густавсон)
@@ -746,6 +747,7 @@ Found:
     Prinzessin 2006 (кайзерин)
     National Theatre Live: Fleabag
     Mortal Kombat 2021 (8 апреля)
+    Рыцари справедливости 2020 Retfærdighedens ryttere (кинопоиск рекомендации)
 
 Сериалы не вышли:
     netflix documentary Винер (Weiner) (густавсон)
@@ -792,6 +794,7 @@ Found:
  Поменяться местами (ТЖ)
  Такер: Человек и его мечта (ТЖ)
  Дефолт (2018) – Gukgabudoeui nal (ТЖ)
+ Мертвеход 2009 The Revenant (Слон)
  
 
  Con Air 1997 (густавсон)
