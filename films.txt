@@ -715,7 +715,7 @@ The Intern 2015 Интерн (кинопоиск 241) -+
 Гаттака 1997 Gattaca (кинопоиск 235) +-
 День курка 2019 boss level (флокал) -+
 Аргентинец в нью-йорке 1998 Un argentino en New York (наташа) -+
-Немцы 2020 s01e03 -+
+Немцы 2020 s01e10 -+
 Wrath of Man 2021 Гнев человеческий (Гай Ричи) +-
 Курьер 2011 The Courier -+
 Курьер 2019 The Courier -
@@ -832,6 +832,8 @@ Found:
  Отец (2020). The Father (хопкинс) (Ира)
  Рыцари справедливости 2020 Retfærdighedens ryttere (Ира)
  магазинные воришки (япония) (Ира)
+ Главный герой (2021) Free Guy (флокал)
+ Timecrafters The Treasure of Pirate's Cove 2020 Сокровище Пиратской бухты
 
  Con Air 1997 (густавсон)
  The Rock 1996 (густавсон) nicolas cage
