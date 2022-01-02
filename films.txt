@@ -739,12 +739,14 @@ Clickbait 2021 кликбейт (фрилансер по жизни) +-
 Отец (2020). The Father (хопкинс) (Ира) +-
 Прачечная (2019) The Laundromat +-
 French dispatch 2021 Французский вестник. Приложение к газете «Либерти. Канзас ивнинг сан» (Петр, Ира) +.
+Соседи сверху. Sentimental 2020 (Петр) +-
 
 
 On laptop:
-    Соседи сверху. Sentimental 2020 (Петр)
     Романтики «303»
     Peruna Картошка (флокал)
+    Матрица 4: Воскрешение (2021) The Matrix Resurrections
+    Дюна (2021) Dune: Part One
 
 Found:
     Трон (1982) — Tron
@@ -752,6 +754,7 @@ Found:
     Шан-Чи и легенда десяти колец (2021) Shang-Chi and the Legend of the Ten Rings (Faq) 
     Эркюль и Шерлок против мафии
     The Shape of Water (кинопоиск)
+    Еще по одной (2020). Druk (Ира)
 
 Сериалы:
     Субура https://www.kinopoisk.ru/series/1048422/ 2017 (густавсон)
@@ -848,10 +851,8 @@ Found:
  Мертвеход 2009 The Revenant (Слон)
  Подземка 1985
  «Крепость» (англ. Fortress, 1992)
- Еще по одной (2020). Druk (Ира)
  Timecrafters The Treasure of Pirate's Cove 2020 Сокровище Пиратской бухты
  Long Flat Balls 3 (apetor)
- Матрица 4
  Круэлла (лебедев)
  В последний раз (2006) The Last Time (ТЖ комменты)
  Королевская битва (2000) Batoru rowaiaru Battle Royale (флокал)
