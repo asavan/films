@@ -740,6 +740,7 @@ Clickbait 2021 кликбейт (фрилансер по жизни) +-
 Прачечная (2019) The Laundromat +-
 French dispatch 2021 Французский вестник. Приложение к газете «Либерти. Канзас ивнинг сан» (Петр, Ира) +.
 Соседи сверху. Sentimental 2020 (Петр) +-
+Nero Wolfe 2012 Ниро Вульф s01e05 +-
 
 
 On laptop:
@@ -755,6 +756,7 @@ Found:
     Эркюль и Шерлок против мафии
     The Shape of Water (кинопоиск)
     Еще по одной (2020). Druk (Ира)
+    Бесшабашный батальон 2 / Бесшабашный отряд 2 / Lange flate ballaer 2
 
 Сериалы:
     Субура https://www.kinopoisk.ru/series/1048422/ 2017 (густавсон)
@@ -857,6 +859,7 @@ Found:
  В последний раз (2006) The Last Time (ТЖ комменты)
  Королевская битва (2000) Batoru rowaiaru Battle Royale (флокал)
  Финч (2021) Finch (фрилансер по жизни)
+ Don’t look up  (флокал)
 
  Con Air 1997 (густавсон)
  The Rock 1996 (густавсон) nicolas cage
@@ -953,6 +956,7 @@ Found:
   Меня зовут Кхан My Name Is Khan 2010 (кинопоиск 131)
   Однажды в Америке Once Upon a Time in America 1983 (кинопоиск 89)
   Двухсотлетний человек 1999 Bicentennial Man (кинопоиск 176)
+  The Art of Racing in the Rain (кинопоиск 118)
 
 
   11:14?
