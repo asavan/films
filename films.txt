@@ -744,6 +744,7 @@ Nero Wolfe 2012 Ниро Вульф s01e08 +-
 Матрица 4: Воскрешение (2021) The Matrix Resurrections +-
 Убийства в одном здании 2021 Only Murders in the Building s01e10 -+
 Дюна (2021) Dune: Part One +.
+Бесшабашный батальон 2 (2008)/ Бесшабашный отряд 2 / Lange flate ballaer 2 | Long Flat Balls 2 +-
 
 
 On laptop:
@@ -751,7 +752,6 @@ On laptop:
     Peruna Картошка (флокал)
     Шан-Чи и легенда десяти колец (2021) Shang-Chi and the Legend of the Ten Rings (Faq) 
     Эркюль и Шерлок против мафии
-    Бесшабашный батальон 2 / Бесшабашный отряд 2 / Lange flate ballaer 2
 
 Found:
     Трон (1982) — Tron
