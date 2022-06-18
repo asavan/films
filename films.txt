@@ -782,7 +782,8 @@ Midnight Mass 2021 Полуночная месса (кто-то советует
 Всё везде и сразу (2022) Everything Everywhere All at Once (ТЖ) +-
 Под Сильвер-Лэйк (2018) Under the Silver Lake (кинопоиск) +.
 Космические силы (сериал 2020 – 2022) Space Force (флокал) s01e10 +-
-Bad Internet(ТЖ) s01e01 -.
+Bad Internet(ТЖ) s01e02 -+
+Не те парни 2013-2014 The Wrong Mans (ТЖ) +.
 
 
 On laptop:
@@ -793,7 +794,6 @@ Found:
     Триумф воли (1935) Triumph des Willens
     Территория (2014) (флокал?)
     Садоводы / Landscapers (ТЖ)
-    Не те парни (ТЖ)
 
 
 Сериалы:
@@ -916,6 +916,9 @@ Found:
  Оторви и выбрось (ТЖ)
  RRR (2022) (густавсон)
  licorice pizza (густавсон)
+ Hustle 2022 (густавсон)
+ coda 2021 ? (густавсон)
+ Top Gun 2022 (густавсон)
 
 
  Con Air 1997 (густавсон)
