@@ -782,8 +782,10 @@ Midnight Mass 2021 Полуночная месса (кто-то советует
 Всё везде и сразу (2022) Everything Everywhere All at Once (ТЖ) +-
 Под Сильвер-Лэйк (2018) Under the Silver Lake (кинопоиск) +.
 Космические силы (сериал 2020 – 2022) Space Force (флокал) s01e10 +-
-Bad Internet(ТЖ) s01e02 -+
-Не те парни 2013-2014 The Wrong Mans (ТЖ) +.
+Bad Internet(ТЖ) s01e04 -+
+Не те парни 2013-2014 The Wrong Mans (ТЖ) s01e06 +.
+Не те парни 2013-2014 The Wrong Mans (ТЖ) s02e02 +-
+Садоводы 2021 Landscapers (ТЖ) s01e03 +.
 
 
 On laptop:
@@ -793,7 +795,6 @@ Found:
     Трон (1982) — Tron
     Триумф воли (1935) Triumph des Willens
     Территория (2014) (флокал?)
-    Садоводы / Landscapers (ТЖ)
 
 
 Сериалы:
