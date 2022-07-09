@@ -789,6 +789,7 @@ Bad Internet(ТЖ) s01e04 -+
 НольНольНоль (мини–сериал 2019 – ...) ZeroZeroZero s01e08 -.
 Living With Yourself 2019 Ужиться с самим собой (ТЖ) s01e08 -+
 Код на миллиард долларов (мини–сериал 2021) The Billion Dollar Code (youtube) s01e01 -.
+Разделение 2022 Severance (ТЖ) s01e02 +.
 
 
 On laptop:
@@ -799,7 +800,6 @@ Found:
     Триумф воли (1935) Triumph des Willens
     Территория (2014) (флокал?)
     Медленные лошади / Хромые кони / Slow Horses (ТЖ)
-    Severance (ТЖ)
     Аннетт (2020) Annette (Ира)
 
 
