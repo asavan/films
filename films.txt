@@ -794,7 +794,7 @@ Living With Yourself 2019 Ужиться с самим собой (ТЖ) s01e08 
 Худший человек на свете (2021) Verdens verste menneske The Worst Person in the World (ТЖ) +
 Борат 2 (2020) Borat Subsequent Moviefilm -+
 Мейр из Исттауна (мини–сериал 2021). Mare of Easttown (флокал) s01e02 -+
-What We Do in the Shadows s04e07 -+
+What We Do in the Shadows s04e10 -+
 Главная роль (2021) Competencia oficial (ТЖ) -+
 Убийство на ферме Уайтхаус 2020 White House Farm (кайзерин) s01e06 +-
 Миллион мелочей 2018 A Million Little Things (Антон Сметанкин: директор студии "Паровоз", выпускник ММ) s01e01 -
@@ -807,12 +807,19 @@ Hustle 2022 Прорваться в НБА (густавсон) +-
 Cha Cha Real Smooth 2022 В ритме ча-ча-ча (Ира) -+
 Топ Ган: Мэверик (2022) Top Gun: Maverick (густавсон) -.
 Аннетт (2020) Annette (Ира) -+
-Репетиция 2022 (nathan fielder) The Rehearsal (густавсон) s01e03 +.
+Репетиция 2022 (nathan fielder) The Rehearsal (густавсон) s01e06 +.
+Peacemaker 2002 Миротворец (барный четверг) s01e02 -
+Тростниковые жабы: Оккупация (2010) Cane Toads: The Conquest -+
+RRR (2022) Рядом ревёт революция (густавсон) +-
+Ночной портье 2020 The Night Clerk +-
+Our Flag Means Death 2022 Наш флаг означает смерть (Даня) +-
 
 
-On laptop: 
-    RRR (2022) (густавсон)
-    Тростниковые жабы: Оккупация (2010) Cane Toads: The Conquest
+On laptop:     
+    Эйфория (вика) советует саундтрек https://www.kinopoisk.ru/series/1178445/
+    Ночной администратор (Вика)
+    Пеликан 2011 Nicostratos le pelican (Леня)
+    
 
 
 Found:
@@ -823,6 +830,8 @@ Found:
     Thirteen Lives (густавсон)
     The Rescue (2021 film) (густавсон)
     The Russians Are Coming, the Russians Are Coming (музыка полюшко, комедия)
+    Дождливый день в Нью-Йорке (2019) A Rainy Day in New York (Вика)
+    Sideways 2004 На обочине (оскар 2004)
 
 
 Сериалы:
@@ -863,7 +872,7 @@ Found:
     Day break (флокал)
     Сопрано (кинопоиск)
     Индекс страха (сериал 2022 – ...) The Fear Index (youtube)
-
+    Дом дракона (Вика)
 
 Еще не вышли:
     Ri zi Дни 2020 https://www.kinopoisk.ru/film/1343913/ (Долин)
