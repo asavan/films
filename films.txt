@@ -824,6 +824,7 @@ Sideways 2004 На обочине (оскар 2004) +-
 Корона (сериал 2016 – ...) The Crown (кинопоиск 120) s01e01 -+
 Серафим Полубес и другие жители Земли (1983) +-
 Кровавый четверг (1998) Thursday +
+Трон (1982) — Tron +-
 
 
 On laptop:     
@@ -834,7 +835,6 @@ On laptop:
 
 
 Found:
-    Трон (1982) — Tron
     Триумф воли (1935) Triumph des Willens
     Территория (2014) (флокал?)
     The Russians Are Coming, the Russians Are Coming (музыка полюшко, комедия)
