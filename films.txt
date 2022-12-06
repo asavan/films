@@ -507,7 +507,7 @@ Inside Man 2006 Не пойман не вор (густавсон) +-
 Nathan for You (густавсон) +-
 Dark 3 -+
 Bad Boys for Life 2020 (густавсон) -
-Чики (флокал) -+
+Чики (флокал) s01e03 -+
 21 Bridges 2019 (густавсон) +-
 Training Day (флокал) +-
 divine move 2014 (кто-то советует густавсону) +-
@@ -830,12 +830,13 @@ Sideways 2004 На обочине (оскар 2004) +-
 Margin call 2011 предел риска (ТЖ) +-
 The Great Hack 2019 кембридж аналитика (женя) +-
 Timecrafters The Treasure of Pirate's Cove 2020 Сокровище Пиратской бухты -.
+13 жизней 2022 Thirteen Lives (густавсон) -+
+Уэнсдэй (сериал 2022) Wednesday s01e01 +-
 
 
 On laptop:     
     Эйфория (вика) советует саундтрек https://www.kinopoisk.ru/series/1178445/
-    Ночной администратор (Вика)
-    Thirteen Lives (густавсон)
+    Ночной администратор 2015 The Night Manager s01e03 (Вика)
     Финч (2021) Finch (фрилансер по жизни)
     Семейка Аддамс (1991) The Addams Family (Вика)
 
