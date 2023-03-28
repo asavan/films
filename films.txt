@@ -507,7 +507,7 @@ Inside Man 2006 Не пойман не вор (густавсон) +-
 Nathan for You (густавсон) +-
 Dark 3 -+
 Bad Boys for Life 2020 (густавсон) -
-Чики (флокал) s01e05 -+
+Чики (флокал) s01e08 -+
 21 Bridges 2019 (густавсон) +-
 Training Day (флокал) +-
 divine move 2014 (кто-то советует густавсону) +-
@@ -583,7 +583,7 @@ Fargo s04e11 -+
 Пророк 2009 Un prophète +.
 Эпидемия 2018 To the Lake s01e01 (Прокоп) -
 Настоящая кровь True Blood s01e03 (спрут) -+
-Who Is America s01e01 (флокал) -+
+Who Is America s01e07 (флокал) -+
 Белый плен Eight Below 2006 (кинопоиск 173) +-
 The Raid 2: Berandal 2014 Рэйд 2 -+
 Как отмыть миллион 2018 La chute de l'empire américain (кинопоиск рекомендации) +-
@@ -839,12 +839,19 @@ Curb your entusiasm s11e10 +
 Семейка Аддамс (1991) The Addams Family (Вика) -+
 Ценности семейки Аддамс (1993) Addams Family Values +-
 Glass Onion: A Knives Out Mystery 2002 Достать ножи 2 +-
-Euphoria 2019 Эйфория (вика) советует саундтрек https://www.kinopoisk.ru/series/1178445/ s01e01 -+
+Euphoria 2019 Эйфория (вика) советует саундтрек https://www.kinopoisk.ru/series/1178445/ s01e02 -+
 Шантарам (сериал 2022) Shantaram s01e12 +-
 Два холма (Яна) s01e04 -
 Поездка на выходные 2022 The weekend away (Вика) +-
 Быстрее пули (2022) Bullet Train (Вика) +-
 Песочный человек (2022) The Sandman s01e02 -+
+Фабельманы (2022) The Fabelmans (Вика) -.
+you ты s03e10 +-
+you ты s04e1 -
+Экстраординарная (сериал 2023 – ...) Extraordinary s01e01 -.
+Студия 60 на Сансет Стрип (сериал 2006 – 2007) Studio 60 on the Sunset Strip s01e01 -.
+Призраки (сериал 2021 – ...) Ghosts s01e02 -+
+Операция «Фортуна»: Искусство побеждать (2022) Operation Fortune: Ruse de Guerre +-
 
 
 On laptop:
@@ -854,6 +861,7 @@ Found:
     Территория (2014) (флокал?)
     The Russians Are Coming, the Russians Are Coming (музыка полюшко, комедия)
     Видеть (сериал 2019 – ...) See (густавсон)
+    Того (2019) Togo (флокал)
 
 
 Сериалы:
@@ -972,7 +980,12 @@ Found:
  coda 2021 ? (густавсон)
  Аллея кошмаров (2021) Nightmare Alley (ТЖ)
  Няня (2017) The Babysitter (Вика)
- Фабельманы (Вика)
+ Афера Стивена Гласса (2003) Shattered Glass
+ Трон: Наследие (2010) Tron
+ Три идиота (2009) 3 Idiots
+ tetris (флокал)
+ Winnie the Pooh: Blood and Honey
+ кошечка 2009 (РФ Вика)
 
 
  Con Air 1997 (густавсон)
