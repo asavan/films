@@ -858,6 +858,8 @@ you ты s04e1 -
 Человек, который познал бесконечность (2015) The Man Who Knew Infinity -+
 Город глазами кота (2018) De wilde stad +-
 Кошечка (2009) -+
+Информатор! (2009) The Informant! (самолет) -+
+Бандит (2022) Bandit (самолет) +-
 
 
 On laptop:
@@ -991,7 +993,7 @@ Found:
  Три идиота (2009) 3 Idiots
  tetris (флокал)
  Winnie the Pooh: Blood and Honey
- кошечка 2009 (РФ Вика)
+ Ещё раз про любовь (1968) 
 
 
  Con Air 1997 (густавсон)
