@@ -862,6 +862,7 @@ you ты s04e1 -
 Бандит (2022) Bandit (самолет) +-
 Библиатекарь 2023 https://www.kinopoisk.ru/series/777031 Библиатекарь (леня) s01e07 -+
 Стражи Галактики. Часть 3 (2023) Guardians of the Galaxy Volume 3 -+
+Тетрис (2022) Tetris +-
 
 
 On laptop:
@@ -917,6 +918,8 @@ Found:
     Записки молодого врача (Марсель)
     Уилфред (сериал 2011 – 2014) Wilfred (марсель)
     Стэн против сил зла (сериал 2016 – 2018) Stan Against Evil (марсель)
+    Грызня (сериал 2023) Beef (Вика)
+    Любовь и смерть (мини–сериал 2023) Love & Death (Вика)
 
 Еще не вышли:
     Ri zi Дни 2020 https://www.kinopoisk.ru/film/1343913/ (Долин)
@@ -926,6 +929,7 @@ Found:
     Long Flat Balls 3 (apetor)
     Ампир V
     Вавилон 2022 (Вика)
+    Long ma jing shen (джеки чан)
 
 Сериалы не вышли:
     netflix documentary Винер (Weiner) (густавсон)
