@@ -864,9 +864,9 @@ you ты s04e1 -
 Стражи Галактики. Часть 3 (2023) Guardians of the Galaxy Volume 3 -+
 Тетрис (2022) Tetris +-
 Ампир V (2023) -+
+Банши Инишерина (2022) The Banshees of Inisherin +
 
 On laptop:
-    Банши Инишерина (2022) The Banshees of Inisherin
 
 Found:
     Триумф воли (1935) Triumph des Willens
@@ -995,10 +995,8 @@ Found:
  coda 2021 ? (густавсон)
  Аллея кошмаров (2021) Nightmare Alley (ТЖ)
  Няня (2017) The Babysitter (Вика)
- Афера Стивена Гласса (2003) Shattered Glass
  Трон: Наследие (2010) Tron
  Три идиота (2009) 3 Idiots
- tetris (флокал)
  Winnie the Pooh: Blood and Honey
  Ещё раз про любовь (1968)
 
