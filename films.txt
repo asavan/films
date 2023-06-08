@@ -868,10 +868,12 @@ you ты s04e1 -
 Банши Инишерина (2022) The Banshees of Inisherin +
 Того (2019) Togo (флокал) +-
 Любовь и смерть (мини–сериал 2023) Love & Death (Вика) s01e01 -+
+Time Trap 2017 Ловушка времени https://www.kinopoisk.ru/film/920040/ (Богданов) -+
 
 
 On laptop:
-    Ловушка времени https://www.kinopoisk.ru/film/920040/ 2017 (Богданов)
+    Дюна (1984) Dune
+    Земля кочевников (2020) Nomadland
 
 Found:
     Триумф воли (1935) Triumph des Willens
