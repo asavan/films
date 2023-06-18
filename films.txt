@@ -871,6 +871,7 @@ you ты s04e1 -
 Time Trap 2017 Ловушка времени https://www.kinopoisk.ru/film/920040/ (Богданов) -+
 Дюна (1984) Dune +-
 Земля кочевников (2020) Nomadland +-
+Няня (2017) The Babysitter (Вика) -+
 
 
 On laptop:
@@ -925,6 +926,7 @@ Found:
     Записки молодого врача (Марсель)
     Уилфред (сериал 2011 – 2014) Wilfred (марсель)
     Стэн против сил зла (сериал 2016 – 2018) Stan Against Evil (марсель)
+    Черные паруса (сериал 2014 – 2017) Black Sails (Вика)
 
 Еще не вышли:
     Ri zi Дни 2020 https://www.kinopoisk.ru/film/1343913/ (Долин)
@@ -998,11 +1000,13 @@ Found:
  Оторви и выбрось (ТЖ)
  coda 2021 ? (густавсон)
  Аллея кошмаров (2021) Nightmare Alley (ТЖ)
- Няня (2017) The Babysitter (Вика)
  Трон: Наследие (2010) Tron
  Три идиота (2009) 3 Idiots
  Winnie the Pooh: Blood and Honey
  Ещё раз про любовь (1968)
+ Sing Street 2016
+ Невероятное путешествие (1963) The Incredible Journey
+ i think we're alone now (кто-то советует густавсону)
 
 
  Con Air 1997 (густавсон)
