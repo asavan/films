@@ -872,19 +872,22 @@ Time Trap 2017 Ловушка времени https://www.kinopoisk.ru/film/92004
 Дюна (1984) Dune +-
 Земля кочевников (2020) Nomadland +-
 Няня (2017) The Babysitter (Вика) -+
-Наполеон (мини–сериал 2002) Napoleon s01e01 (клавье) -+
+Наполеон (мини–сериал 2002) Napoleon s01e04 (клавье) -+
 Мужчины (1972) +-
 The Russians Are Coming, the Russians Are Coming (музыка полюшко, комедия) +-
 Видеть (сериал 2019 – ...) See (густавсон) s01e02 -+
-Black Mirror s06e01 -+
+Black Mirror s06e04 -+
+Стартап (сериал 2016 – 2018) StartUp s01e01 -+
 
 
 On laptop:
+    Довольно добрый человек 2010 En ganske snill mann
 
 Found:
     Триумф воли (1935) Triumph des Willens
     Территория (2014) (флокал?)
     Наследники (сериал 2018 – ...) Succession (Вика, кинопоиск 217)
+    Не шутите с Zоханом! (2008) You Don't Mess with the Zohan
 
 
 Сериалы:
@@ -1010,6 +1013,7 @@ Found:
  Sing Street 2016
  Невероятное путешествие (1963) The Incredible Journey
  i think we're alone now (кто-то советует густавсону)
+ Снегоуборщик (2019) Cold Pursuit
 
 
  Con Air 1997 (густавсон)
