@@ -884,7 +884,7 @@ Black Mirror черное зеркало s06e05 -+
 Снегоуборщик (2019) Cold Pursuit -
 Анализируй это (1999) Analyze This +.
 Несчастный случай (2016) Accident Man +-
-
+Королевская битва (2000) Batoru rowaiaru Battle Royale (флокал) +-
 
 On laptop:
 
@@ -997,7 +997,6 @@ Found:
  «Крепость» (англ. Fortress, 1992)
  Круэлла (лебедев)
  В последний раз (2006) The Last Time (ТЖ комменты)
- Королевская битва (2000) Batoru rowaiaru Battle Royale (флокал)
  мой король (кайзи)
  Гений Дзюдо (Акиры Куросавы)
  Воин ветра
