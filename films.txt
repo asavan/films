@@ -885,6 +885,7 @@ Black Mirror черное зеркало s06e05 -+
 Анализируй это (1999) Analyze This +.
 Несчастный случай (2016) Accident Man +-
 Королевская битва (2000) Batoru rowaiaru Battle Royale (флокал) +-
+Город астероидов (2023) Asteroid City (вика) +-
 
 On laptop:
 
@@ -1019,7 +1020,6 @@ Found:
  i think we're alone now (кто-то советует густавсону)
  Poor Things (Вика)
  убийцы цветочной луны (Вика)
- город астероидов (вика)
 
 
  Con Air 1997 (густавсон)
