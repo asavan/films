@@ -894,12 +894,13 @@ Black Mirror черное зеркало s06e05 -+
 Профессионал (2011) Killer Elite +-
 Тройная граница (2019) Triple Frontier +-
 Механик (1972) The Mechanic +-
-Бедные Абрамовичи (сериал 2022) s01e07 +-
+Бедные Абрамовичи (сериал 2022) s01e09 +-
 Кибердеревня (сериал 2023) s01e01 +-
 Да здравствует Франция! (2013) Vive la France +.
 Железное небо (2012) Iron Sky -+
 Железное небо 2 (2019) Iron Sky: The Coming Race (Вика) -+
-Призрак дома на холме (сериал 2018) The Haunting of Hill House (вика) s01e02 +
+Призрак дома на холме (сериал 2018) The Haunting of Hill House (вика) s01e10 +
+Падение дома Ашеров (мини–сериал 2023) The Fall of the House of Usher (Слон) +-
 
 On laptop:
     Математик в стране чудес / В расцвете сил | Isanghan naraui suhakja / Mathematician of a Wonderland / In Our Prime | 이상한 나라의 수학자 | 2022 | I-sang-han na-ra-eui su-hak-ja 
@@ -1041,6 +1042,7 @@ Found:
  Приключения желтого чемоданчика 1970 (ТЖ)
  Туннель: Опасно для жизни (2019) Tunnelen (ТЖ)
  Знахарь (ТЖ)
+ Как прогулять школу с пользой (2017) L'école buissonnière (Леня) (конопоиск 190)
 
 
  Con Air 1997 (густавсон)
