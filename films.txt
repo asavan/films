@@ -910,8 +910,9 @@ Black Mirror черное зеркало s06e05 -+
 Афера Томаса Крауна (1968) The Thomas Crown Affair (levitov chess) +.
 Короче 2019 s01e13 +.
 Опасная правда (2001) Antitrust +-
-Короче 2019 s01e13 +.
+Короче 2021 s02e03 +-
 Жмурки (2005) +.
+Солтберн (2023) Saltburn (Вика) +-
 
 On laptop:
 
@@ -1082,7 +1083,7 @@ Found:
  Кто убил Blackberry (Blackberry) (ТЖ)
  Переводчик (The Covenant) (ТЖ)
  Дойная корова (Cash Cow) (ТЖ)
- Солтберн (2023) Saltburn (Вика)
+ Ещё раз про любовь 1968
  
 
 
