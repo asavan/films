@@ -914,10 +914,11 @@ Black Mirror черное зеркало s06e05 -+
 Жмурки (2005) +.
 Солтберн (2023) Saltburn (Вика) +-
 Пропащие ребята (1987) The Lost Boys (ТЖ) -+
-Soprano s01e03 +-
+Soprano s01e04 +-
 Терапия (сериал 2023 – ...) Shrinking s01e01 -+
 
 On laptop:
+    Триггер (сериал 2018 – ...) (кинопоиск 69)
 
 Found:
     Триумф воли (1935) Triumph des Willens
@@ -1091,6 +1092,7 @@ Found:
  Оставь мир позади (2023) Leave the World Behind (вика, ксения дукалис)
  Dude, Where's My Car? (густавсон)
  Падение империи (2024) Civil War
+ Этому быть! (2021) Presque (Вика) https://www.kinopoisk.ru/film/4499697/
  
 
 
