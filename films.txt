@@ -917,12 +917,14 @@ Black Mirror черное зеркало s06e05 -+
 Soprano s01e13 +-
 Терапия (сериал 2023 – ...) Shrinking s01e01 -+
 Блондинка 2022 https://www.kinopoisk.ru/film/4886121/ (Вика) -+
-Curb Your Enthusiasm s12e07 +.
+Curb Your Enthusiasm s12e08 +.
 Soprano s02e13 -+
 What We Do in the Shadows s05e10 -+
 Дюна: Часть вторая (2024) Dune: Part Two +-
 Американское чтиво (2023) American Fiction +-
 Джентльмены (сериал 2024 – ...) The Gentlemen s01e01 -.
+Criminal: UK +. s01e03
+Выживут только любовники (2013) Only Lovers Left Alive +-
 
 
 On laptop:
@@ -1103,7 +1105,19 @@ Found:
  Падение империи (2024) Civil War
  Этому быть! (2021) Presque (Вика) https://www.kinopoisk.ru/film/4499697/
  Тар (2022) Tár https://www.kinopoisk.ru/film/4511218/ (густавсон)
- 
+ отвязные каникулы (A24 кинопоиск)
+ прошлые жизни (A24 кинопоиск)
+ лунный свет 2016 (A24 кинопоиск)
+ агнец 2021 (A24 кинопоиск)
+ Элитное общество (2013) The Bling Ring (A24 кинопоиск)
+ Зона интересов (2023) The Zone of Interest (A24 кинопоиск)
+ Дневник пастыря (2017) First Reformed (A24 кинопоиск)
+ Трагедия Макбета (2021) The Tragedy of Macbeth (A24 кинопоиск)
+ История призрака (2017) A Ghost Story (A24 кинопоиск)
+ Стальная хватка (2023) The Iron Claw (A24 кинопоиск)
+ Легенда о Зелёном Рыцаре (2020) The Green Knight (A24 кинопоиск)
+ Род мужской (2022) Men (A24 кинопоиск)
+ Прощание (2019) The Farewell (A24 кинопоиск)
 
 
  Con Air 1997 (густавсон)
