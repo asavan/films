@@ -927,7 +927,9 @@ Criminal: UK +. s01e03
 Выживут только любовники (2013) Only Lovers Left Alive +-
 Бедные-несчастные (2023) Poor Things (Вика) +.
 Убийца (2023) The Killer +-
-Чудесная история Генри Шугара (2023) The Wonderful Story of Henry Sugar +.
+Чудесная история Генри Шугара (2023) The Wonderful Story of Henry Sugar (кинопоиск) +.
+Criminal Germany s01e01 +-
+
 
 On laptop:
     Триггер (сериал 2018 – ...) (кинопоиск 69)
@@ -1121,7 +1123,6 @@ Found:
  Прощание (2019) The Farewell (A24 кинопоиск)
  Зодиак (2007) Zodiac
  Золото Рейна (2022) Rheingold
- Чудесная история Генри Шугара (2023) The Wonderful Story of Henry Sugar (кинопоиск)
  Джон Уик 4 (2023) John Wick: Chapter 4 (кинопоиск)
  Опавшие листья (2023) Kuolleet lehdet (кинопоиск)
  Мы всем чужие (2023) All of Us Strangers (кинопоиск)
