@@ -929,6 +929,7 @@ Criminal: UK +. s01e03
 Убийца (2023) The Killer +-
 Чудесная история Генри Шугара (2023) The Wonderful Story of Henry Sugar (кинопоиск) +.
 Criminal Germany s01e01 +-
+Правда о деле Гарри Квеберта (мини–сериал 2018) The Truth About the Harry Quebert Affair (вика) s01e02 +.
 
 
 On laptop:
@@ -995,6 +996,7 @@ Found:
     Цыпленок жареный (сериал 2019) (бугаенко)
     https://en.wikipedia.org/wiki/Love_(TV_series) (густавсон)
     Капкан (сериал 2015) Ófærð https://www.kinopoisk.ru/series/891657/
+    Рипли (мини–сериал 2024) Ripley
     
 
 Еще не вышли:
@@ -1127,6 +1129,9 @@ Found:
  Опавшие листья (2023) Kuolleet lehdet (кинопоиск)
  Мы всем чужие (2023) All of Us Strangers (кинопоиск)
  Красное небо (2023) Roter Himmel (кинопоиск)
+ Лебедь (2023) The Swan (Уэс Андерсон)
+ Крысолов (2023) The Rat Catcher (Уэс Андерсон)
+ Яд (2023) Poison (Уэс Андерсон)
 
 
  Con Air 1997 (густавсон)
