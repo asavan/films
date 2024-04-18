@@ -929,7 +929,8 @@ Criminal: UK +. s01e03
 Убийца (2023) The Killer +-
 Чудесная история Генри Шугара (2023) The Wonderful Story of Henry Sugar (кинопоиск) +.
 Criminal Germany s01e01 +-
-Правда о деле Гарри Квеберта (мини–сериал 2018) The Truth About the Harry Quebert Affair (вика) s01e02 +.
+Правда о деле Гарри Квеберта (мини–сериал 2018) The Truth About the Harry Quebert Affair (вика, кинопоиск 236) s01e10 -+
+Олененок Baby Reindeer (мини–сериал 2024) (Вика) s01e01 +-
 
 
 On laptop:
@@ -1132,6 +1133,7 @@ Found:
  Лебедь (2023) The Swan (Уэс Андерсон)
  Крысолов (2023) The Rat Catcher (Уэс Андерсон)
  Яд (2023) Poison (Уэс Андерсон)
+ Готика (2003) Gothika
 
 
  Con Air 1997 (густавсон)
