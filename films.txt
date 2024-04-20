@@ -931,6 +931,7 @@ Criminal: UK +. s01e03
 Criminal Germany s01e01 +-
 Правда о деле Гарри Квеберта (мини–сериал 2018) The Truth About the Harry Quebert Affair (вика, кинопоиск 236) s01e10 -+
 Олененок Baby Reindeer (мини–сериал 2024) (Вика) s01e01 +-
+Кто убил Blackberry (Blackberry) (ТЖ, кинопоиск) +-
 
 
 On laptop:
@@ -1101,7 +1102,6 @@ Found:
  Раздражительность (2017) Acrimony (ТЖ)
  Повелитель ветра (2023) (ТЖ)
  Все вороны — белые (Crows Are White) (ТЖ)
- Кто убил Blackberry (Blackberry) (ТЖ, кинопоиск)
  Переводчик (The Covenant) (ТЖ)
  Дойная корова (Cash Cow) (ТЖ)
  Ещё раз про любовь 1968
