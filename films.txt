@@ -945,7 +945,8 @@ Criminal Germany s01e01 +-
 Министерство неджентльменских дел (2024) The Ministry of Ungentlemanly Warfare (Вика) +-
 Ограбление (1985) Hold-Up +-
 Красное небо Roter Himmel / Afire (2023) +-
-Покерфейс | Poker Face | 2023 s01e03 +-
+Покерфейс | Poker Face | 2023 s01e05 -+
+Сёгун (сериал 2024 – ...) Shôgun s01e01 +.
 
 
 On laptop:
@@ -1017,6 +1018,7 @@ Found:
     Йеллоустоун (сериал 2018 – ...) Yellowstone (кинопоиск 32)
     Вечность (сериал 2014 – 2015) Forever (кинопоиск 17)
     Чокнутая бывшая (сериал 2015 – 2019) Crazy Ex-Girlfriend (Вика)
+    Алиса в Пограничье (сериал 2020 – 2022) Imawa no Kuni no Arisu (аврора)
     
     
 
