@@ -928,7 +928,7 @@ Criminal: UK +. s01e03
 Бедные-несчастные (2023) Poor Things (Вика) +.
 Убийца (2023) The Killer +-
 Чудесная история Генри Шугара (2023) The Wonderful Story of Henry Sugar (кинопоиск) +.
-Criminal Germany s01e01 +-
+Criminal Germany s01e03 +-
 Правда о деле Гарри Квеберта (мини–сериал 2018) The Truth About the Harry Quebert Affair (вика, кинопоиск 236) s01e10 -+
 Олененок Baby Reindeer (мини–сериал 2024) (Вика) s01e04 +-
 Кто убил Blackberry (Blackberry) (ТЖ, кинопоиск) +-
@@ -949,6 +949,7 @@ Criminal Germany s01e01 +-
 Сёгун (сериал 2024 – ...) Shôgun s01e10 +.
 В поисках галактики (1999) Galaxy Quest -+
 Солнце моё (2022) Aftersun +.
+Криминальное собеседование (2019) Criminal Audition (посмотрено 30мин) +-
 
 
 On laptop:
@@ -1019,6 +1020,9 @@ Found:
     Вечность (сериал 2014 – 2015) Forever (кинопоиск 17)
     Чокнутая бывшая (сериал 2015 – 2019) Crazy Ex-Girlfriend (Вика)
     Алиса в Пограничье (сериал 2020 – 2022) Imawa no Kuni no Arisu (аврора)
+    Игра смерти (мини–сериал 2023 – 2024) Ijae, got jukseupnida (стрим авроры)
+    Альгамбра: Воспоминания о королевстве (сериал 2018 – 2019) (стрим авроры)
+    Алиса в Пограничье (сериал 2020 – 2022) Imawa no Kuni no Arisu (стрим авроры)
     
     
 
@@ -1151,7 +1155,9 @@ Found:
  Крысолов (2023) The Rat Catcher (Уэс Андерсон)
  Яд (2023) Poison (Уэс Андерсон)
  Готика (2003) Gothika
-
+ Хозяин морей: На краю Земли (2003) Master and Commander: The Far Side of the World (стрим авроры)
+ Молчание (2016) Silence (стрим авроры)
+ 
 
  Con Air 1997 (густавсон)
  The Rock 1996 (густавсон) nicolas cage
