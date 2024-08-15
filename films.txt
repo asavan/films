@@ -961,6 +961,7 @@ Criminal Germany s01e03 +-
 Баффало 66 (1997) Buffalo '66 (Бугаенко) +.
 Мышиная охота (1997) Mouse Hunt +-
 Идеальные дни (2023) Perfect Days +.
+Джон Уик 4 (2023) John Wick: Chapter 4 (кинопоиск) -+
 
 
 On laptop:
@@ -1159,7 +1160,6 @@ Found:
  Прощание (2019) The Farewell (A24 кинопоиск)
  Зодиак (2007) Zodiac
  Золото Рейна (2022) Rheingold
- Джон Уик 4 (2023) John Wick: Chapter 4 (кинопоиск)
  Опавшие листья (2023) Kuolleet lehdet (кинопоиск)
  Мы всем чужие (2023) All of Us Strangers (кинопоиск)
  Лебедь (2023) The Swan (Уэс Андерсон)
@@ -1168,7 +1168,6 @@ Found:
  Готика (2003) Gothika
  Хозяин морей: На краю Земли (2003) Master and Commander: The Far Side of the World (стрим авроры)
  Молчание (2016) Silence (стрим авроры)
- Идеальные дни (2023) Perfect Days
  Мавританец (2020) The Mauritanian (вика)
  Смерть ей к лицу (1992) Death Becomes Her (вика)
  
