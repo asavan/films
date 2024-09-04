@@ -964,6 +964,7 @@ Criminal Germany s01e03 +-
 Джон Уик 4 (2023) John Wick: Chapter 4 (кинопоиск) -+
 Поедем с тобой в Макао 2023 -+
 Дрянь (2019) National Theatre Live: Fleabag +.
+Конченая (2017) Terminal (Саймон пегг) +-
 
 
 On laptop:
@@ -1173,7 +1174,7 @@ Found:
  Мавританец (2020) The Mauritanian (вика)
  Смерть ей к лицу (1992) Death Becomes Her (вика)
  57 секунд (2023)
- Конченая (2017) Terminal (Саймон пегг)
+ Отпуск без конца (1980) Permanent Vacation (Джармуш)
  
 
  Con Air 1997 (густавсон)
