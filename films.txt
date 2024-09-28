@@ -967,7 +967,8 @@ Criminal Germany s01e03 +-
 Конченая (2017) Terminal (Саймон пегг) +-
 Операция «Колибри» (2018) The Hummingbird Project +-
 Дурные деньги (2023) Dumb Money -+
-Большая маленькая ложь (сериал 2017 – 2019) Big Little Lies s01e01 +-
+Большая маленькая ложь (сериал 2017 – 2019) Big Little Lies s01e02 +-
+57 секунд (2023) 57 Seconds +-
 
 
 On laptop:
@@ -1176,7 +1177,6 @@ Found:
  Молчание (2016) Silence (стрим авроры)
  Мавританец (2020) The Mauritanian (вика)
  Смерть ей к лицу (1992) Death Becomes Her (вика)
- 57 секунд (2023)
  Отпуск без конца (1980) Permanent Vacation (Джармуш)
  Виды доброты (2024) Kinds of Kindness (вика)
  
