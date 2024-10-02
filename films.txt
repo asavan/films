@@ -969,6 +969,7 @@ Criminal Germany s01e03 +-
 Дурные деньги (2023) Dumb Money -+
 Большая маленькая ложь (сериал 2017 – 2019) Big Little Lies s01e02 +-
 57 секунд (2023) 57 Seconds +-
+Американская семейка (сериал 2009 – 2020) Modern Family s01e02 +.
 
 
 On laptop:
@@ -1179,6 +1180,9 @@ Found:
  Смерть ей к лицу (1992) Death Becomes Her (вика)
  Отпуск без конца (1980) Permanent Vacation (Джармуш)
  Виды доброты (2024) Kinds of Kindness (вика)
+ Dead Money 2024 (стрим авроры)
+ Одинокие волки 2024 Wolfs (ТЖ)
+ Субстанция (2024) The Substance (Вика)
  
 
  Con Air 1997 (густавсон)
