@@ -980,7 +980,8 @@ Criminal Germany s01e03 +-
 Алиса в Пограничье (сериал 2020 – 2022) Imawa no Kuni no Arisu (стрим авроры) s01e08 +-
 Пингвин (мини–сериал 2024 – ...) The Penguin (стрим авроры) s01e07 +-
 Субстанция (2024) The Substance (Вика) +-
-Укрытие (сериал 2023 – ...) | Бункер | Silo (стрим авроры) s01e05 +-
+Укрытие (сериал 2023 – ...) | Бункер | Silo (стрим авроры) s01e10 +-
+Виды доброты (2024) Kinds of Kindness (вика) -+
 
 
 On laptop:
@@ -1190,7 +1191,6 @@ Found:
  Мавританец (2020) The Mauritanian (вика)
  Смерть ей к лицу (1992) Death Becomes Her (вика)
  Отпуск без конца (1980) Permanent Vacation (Джармуш)
- Виды доброты (2024) Kinds of Kindness (вика)
  Dead Money 2024 (стрим авроры)
  Money Electric: The Bitcoin Mystery (документалка от HBO)
  
