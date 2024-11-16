@@ -986,6 +986,8 @@ Criminal Germany s01e03 +-
 Тёмная материя (сериал 2024 – ...) Dark Matter (стрим авроры) s01e01 -+
 Тар (2022) Tár https://www.kinopoisk.ru/film/4511218/ (густавсон) +.
 Падение империи (2024) Civil War +-
+Укрытие (сериал 2023 – ...) | Бункер | Silo s02e01 +-
+Любовь (сериал 2016 – 2018) Love https://en.wikipedia.org/wiki/Love_(TV_series) (густавсон) s01e01 +.
 
 
 On laptop:
@@ -1048,7 +1050,6 @@ Found:
     Черный двор 2023 (флокал, похоже на слово пацана) https://www.kinopoisk.ru/series/5319979
     Лада Голд (сериал 2023) (кинопоиск)
     Цыпленок жареный (сериал 2019) (бугаенко)
-    https://en.wikipedia.org/wiki/Love_(TV_series) (густавсон)
     Капкан (сериал 2015) Ófærð https://www.kinopoisk.ru/series/891657/
     Йеллоустоун (сериал 2018 – ...) Yellowstone (кинопоиск 32)
     Вечность (сериал 2014 – 2015) Forever (кинопоиск 17)
