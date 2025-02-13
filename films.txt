@@ -986,13 +986,29 @@ Criminal Germany s01e03 +-
 Тёмная материя (сериал 2024 – ...) Dark Matter (стрим авроры) s01e01 -+
 Тар (2022) Tár https://www.kinopoisk.ru/film/4511218/ (густавсон) +.
 Падение империи (2024) Civil War +-
-Укрытие (сериал 2023 – ...) | Бункер | Silo s02e07 +-
+Укрытие (сериал 2023 – ...) | Бункер | Silo s02e10 +-
 Любовь (сериал 2016 – 2018) Love https://en.wikipedia.org/wiki/Love_(TV_series) (густавсон) s01e04 +-
 Уборщица. История матери-одиночки (сериал 2021) Maid s01e02
 Пчеловод (2024) The Beekeeper +-
 Простая просьба (2018) A Simple Favor +-
 Битлджус Битлджус (2024) Beetlejuice Beetlejuice +-
 Презумпция невиновности (сериал 2024) Presumed Innocent (кинопоиск 237) s01e08 +-
+Сверкающие седла (1974) Blazing Saddles -+
+Разделение (сериал 2022 – ...) Severance s02e04 +
+Люди в чёрном (1997) Men in Black +-
+Люди в чёрном 2 (2002) Men in Black II +-
+Люди в чёрном 3 (2012) Men in Black 3 +-
+Соник 2 в кино (2022) Sonic the Hedgehog 2 +-
+Соник 3 в кино (2024) Sonic the Hedgehog 3 +-
+Гарри Поттер и философский камень (2001) Harry Potter and the Sorcerer's Stone +-
+Гарри Поттер и Тайная комната (2002) Harry Potter and the Chamber of Secrets +-
+Гарри Поттер и узник Азкабана (2004) Harry Potter and the Prisoner of Azkaban +-
+Гарри Поттер и Кубок огня (2005) Harry Potter and the Goblet of Fire +-
+Гарри Поттер и Орден Феникса (2007) Harry Potter and the Order of the Phoenix +-
+Гарри Поттер и Принц-полукровка (2009) Harry Potter and the Half-Blood Prince +-
+Гарри Поттер и Дары Смерти: Часть I (2010) Harry Potter and the Deathly Hallows - Part 1 +-
+Гарри Поттер и Дары Смерти: Часть II (2011) Harry Potter and the Deathly Hallows - Part 2 +-
+Добрый сынок (1993) The Good Son +-
 
 
 On laptop:
