@@ -994,7 +994,7 @@ Criminal Germany s01e03 +-
 Битлджус Битлджус (2024) Beetlejuice Beetlejuice +-
 Презумпция невиновности (сериал 2024) Presumed Innocent (кинопоиск 237) s01e08 +-
 Сверкающие седла (1974) Blazing Saddles -+
-Разделение (сериал 2022 – ...) Severance s02e04 +
+Разделение (сериал 2022 – ...) Severance s02e07 +
 Люди в чёрном (1997) Men in Black +-
 Люди в чёрном 2 (2002) Men in Black II +-
 Люди в чёрном 3 (2012) Men in Black 3 +-
@@ -1010,6 +1010,8 @@ Criminal Germany s01e03 +-
 Гарри Поттер и Дары Смерти: Часть II (2011) Harry Potter and the Deathly Hallows - Part 2 +-
 Добрый сынок (1993) The Good Son +-
 Блондинка 2022 -+
+Мост (сериал 2011 – 2018) Bron/Broen s01e10 +.
+Компаньон (2025) Companion -+
 
 
 On laptop:
@@ -1041,7 +1043,6 @@ Found:
     Tehran ? (густавсон)
     Line of Duty (свидлер)
     Пропавший без вести (2014) – The Missing
-    Мост
     The Mentalist
     Дефективный детектив (2002) — Monk
     Ваша честь (2020) – Your Honor
