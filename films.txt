@@ -1021,6 +1021,7 @@ Larry.David Curb.Your.Enthusiasm 1999 +
 Чёрное зеркало (сериал 2011 – ...) Black Mirror s07e06 +-
 Фантомас (1964) Fantômas +-
 Розовая пантера (1963) The Pink Panther +.
+Возвращение Розовой пантеры (1975) The Return of the Pink Panther +-
 
 
 On laptop:
