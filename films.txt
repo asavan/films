@@ -1024,7 +1024,7 @@ Larry.David Curb.Your.Enthusiasm 1999 +
 Возвращение Розовой пантеры (1975) The Return of the Pink Panther +-
 Этернавт (сериал 2025 – ...) El Eternauta s01e06 -+
 Гангстерленд (сериал 2025 – ...) MobLand s01e10 -.
-Изобретая Анну (сериал 2022) Inventing Anna s01e01 +.
+Изобретая Анну (сериал 2022) Inventing Anna s01e09 +-
 
 
 On laptop:
