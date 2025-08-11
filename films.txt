@@ -995,7 +995,7 @@ Criminal Germany s01e03 +-
 Презумпция невиновности (сериал 2024) Presumed Innocent (кинопоиск 237) s01e08 +-
 Сверкающие седла (1974) Blazing Saddles -+
 Разделение (сериал 2022 – ...) Severance s02e07 +
-Люди в чёрном (1997) Men in Black +-
+Люди в чёрном (1997) Men in Black (кинопоиск 190) +-
 Люди в чёрном 2 (2002) Men in Black II +-
 Люди в чёрном 3 (2012) Men in Black 3 +-
 Соник 2 в кино (2022) Sonic the Hedgehog 2 +-
@@ -1025,6 +1025,7 @@ Larry.David Curb.Your.Enthusiasm 1999 +
 Этернавт (сериал 2025 – ...) El Eternauta s01e06 -+
 Гангстерленд (сериал 2025 – ...) MobLand s01e10 -.
 Изобретая Анну (сериал 2022) Inventing Anna s01e09 +-
+Астерикс и Обеликс: Миссия Клеопатра (2002) Astérix & Obélix: Mission Cléopâtre +-
 
 
 On laptop:
@@ -1229,10 +1230,9 @@ Found:
  Отпуск без конца (1980) Permanent Vacation (Джармуш)
  Dead Money 2024 (стрим авроры)
  Money Electric: The Bitcoin Mystery (документалка от HBO)
- Люди в чёрном (1997) Men in Black (кинопоиск 82)
  Пожары (2010) Incendies (кинопоиск 93)
  Пеле: Рождение легенды (2015) Pelé: Birth of a Legend (кинопоиск 56)
- Одна жизнь (2023) One Life (кинопоиск 53)
+ Одна жизнь (2023) One Life (кинопоиск 53, 91)
  Оценка (2024) The Assessment (флокал)
  Джерри и Мардж играют по-крупному (2022) Jerry & Marge Go Large
  Вооружены и опасны (1986) Armed and Dangerous
@@ -1341,6 +1341,21 @@ Found:
   Однажды в Америке Once Upon a Time in America 1983 (кинопоиск 89)
   Двухсотлетний человек 1999 Bicentennial Man (кинопоиск 176)
   The Art of Racing in the Rain (кинопоиск 118)
+  Крик тишины (ТВ, 2019) (кинопоиск 60) https://www.kinopoisk.ru/film/1228407/
+  Дело храбрых (2017) Only the Brave (кинопоиск 62) https://www.kinopoisk.ru/film/965754/
+  Пеле: Рождение легенды (2015) Pelé: Birth of a Legend (кинопоиск 64) https://www.kinopoisk.ru/film/803422/
+  Апокалипсис (2006) Apocalypto (кинопоиск 69) https://www.kinopoisk.ru/film/160977/
+  Пожары (2010) Incendies (кинопоиск 80) https://www.kinopoisk.ru/film/425400/
+  12 лет рабства (2013) 12 Years a Slave (кинопоиск 90) https://www.kinopoisk.ru/film/606646/
+  F1 (2025) F1 (кинопоиск 94) https://www.kinopoisk.ru/film/5003510/
+  Лев (2016) Lion (кинопоиск 96) https://www.kinopoisk.ru/film/864138/
+  Отель Мумбаи: Противостояние (2018) Hotel Mumbai (кинопоиск 105) https://www.kinopoisk.ru/film/958519/
+  Великолепная поездка (2022) Une belle course (кинопоиск 111) https://www.kinopoisk.ru/film/4542189/
+  Не может быть! (1975) (кинопоиск 112) https://www.kinopoisk.ru/film/46368/
+  Невозможное (2012) Lo imposible (кинопоиск 113) https://www.kinopoisk.ru/film/518037/
+  Чудо (2017) Wonder (кинопоиск 150) https://www.kinopoisk.ru/film/722951/
+  Век Адалин (2015) The Age of Adaline (кинопоиск 155) https://www.kinopoisk.ru/film/522876/
+  Таксист (2017) Taeksi unjeonsa (кинопоиск 219) https://www.kinopoisk.ru/film/1008113/
 
 
   11:14?
