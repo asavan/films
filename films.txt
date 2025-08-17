@@ -1026,7 +1026,7 @@ Larry.David Curb.Your.Enthusiasm 1999 +
 Гангстерленд (сериал 2025 – ...) MobLand s01e10 -.
 Изобретая Анну (сериал 2022) Inventing Anna s01e09 +-
 Астерикс и Обеликс: Миссия Клеопатра (2002) Astérix & Obélix: Mission Cléopâtre +-
-Бангкок Хилтон (мини–сериал 1989) Bangkok Hilton s01e01 +-
+Бангкок Хилтон (мини–сериал 1989) Bangkok Hilton s01e03 +-
 
 
 On laptop:
@@ -1096,6 +1096,7 @@ Found:
     Тилт (сериал 2005) Tilt (стрим авроры)
     Мы владеем этим городом (мини–сериал 2022) We Own This City (кинопоиск)
     Змей в Эссексе (мини–сериал 2022) The Essex Serpent (кинопоиск)
+	Парень из электрички (мини–сериал 2005) Densha otoko https://www.kinopoisk.ru/series/390364/ (didididin)
     
 
 Еще не вышли:
