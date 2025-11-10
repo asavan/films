@@ -1036,7 +1036,8 @@ Larry.David Curb.Your.Enthusiasm 1999 +
 Никто 2 (2025) Nobody 2 +-
 Трон: Наследие (2010) Tron: Legacy +-
 Ущелье (2024) The Gorge -+
-Алиса в Пограничье | Alice in borderland | Imawa no Kuni no Arisu s03e02 +.
+Алиса в Пограничье | Alice in borderland | Imawa no Kuni no Arisu s03e06 +-
+Главы государств (2025) Heads of State +-
 
 
 On laptop:
