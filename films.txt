@@ -1040,8 +1040,9 @@ Larry.David Curb.Your.Enthusiasm 1999 +
 Главы государств (2025) Heads of State +-
 Русская игра (2007) +-
 Баллада о маленьком игроке (2025) Ballad of a Small Player +
-Злой умысел (сериал 2025 – ...) Malice s01e01 +-
+Злой умысел (сериал 2025 – ...) Malice s01e06 -+
 Дом из динамита (2025) A House of Dynamite +-
+Метод исключения (2025) Eojjeolsugaeopda | No other choice
 
 
 On laptop:
@@ -1252,6 +1253,7 @@ Found:
  Оценка (2024) The Assessment (флокал)
  Джерри и Мардж играют по-крупному (2022) Jerry & Marge Go Large
  Вооружены и опасны (1986) Armed and Dangerous
+
  
  Флокал rentochka
          короче я посмотрел свой леттербоксд и за последние пять лет из хороших/неплохих вышли:
@@ -1372,6 +1374,10 @@ Found:
   Чудо (2017) Wonder (кинопоиск 150) https://www.kinopoisk.ru/film/722951/
   Век Адалин (2015) The Age of Adaline (кинопоиск 155) https://www.kinopoisk.ru/film/522876/
   Таксист (2017) Taeksi unjeonsa (кинопоиск 219) https://www.kinopoisk.ru/film/1008113/
+  Дангал (2016) Dangal (кинопоиск 36)
+  Деревья на асфальте (1984) (кинопоиск 41)
+  Невозможное (2012) Lo imposible (кинопоиск 129) https://www.kinopoisk.ru/film/518037/
+  Отель Мумбаи: Противостояние (2018) Hotel Mumbai (кинопоиск 134) https://www.kinopoisk.ru/film/958519/
 
 
   11:14?
