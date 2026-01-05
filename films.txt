@@ -1053,6 +1053,7 @@ Larry.David Curb.Your.Enthusiasm 1999 +
 Перевал (сериал 2018 – 2023) Der Pass s01e08 +-
 Der Pass 2 s02e08 +-
 Мебельная компания (сериал 2025 – ...) The Chair Company s01e08 -
+Киностудия (сериал 2025 – ...) The Studio s01e10 +.
 
 
 On laptop:
