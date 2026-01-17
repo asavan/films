@@ -1055,7 +1055,8 @@ Der Pass 2 s02e08 +-
 Мебельная компания (сериал 2025 – ...) The Chair Company s01e08 -
 Киностудия (сериал 2025 – ...) The Studio s01e10 +.
 Чёрный чемодан – двойная игра (2025) Black Bag +-
-Великолепная поездка (2022) Une belle course | Жизнь Мадлен | Driving Madeleine -.
+Великолепная поездка (2022) Une belle course | Жизнь Мадлен | Driving Madeleine (кинопоиск 102, кинопоиск 111) https://www.kinopoisk.ru/film/4542189/  -.
+Фэкхем-Холл (2025) Fackham Hall +.
 
 
 On laptop:
@@ -1386,7 +1387,6 @@ Found:
   F1 (2025) F1 (кинопоиск 94) https://www.kinopoisk.ru/film/5003510/
   Лев (2016) Lion (кинопоиск 96) https://www.kinopoisk.ru/film/864138/
   Отель Мумбаи: Противостояние (2018) Hotel Mumbai (кинопоиск 105) https://www.kinopoisk.ru/film/958519/
-  Великолепная поездка (2022) Une belle course (кинопоиск 111) https://www.kinopoisk.ru/film/4542189/
   Не может быть! (1975) (кинопоиск 112) https://www.kinopoisk.ru/film/46368/
   Невозможное (2012) Lo imposible (кинопоиск 113) https://www.kinopoisk.ru/film/518037/
   Чудо (2017) Wonder (кинопоиск 150) https://www.kinopoisk.ru/film/722951/
