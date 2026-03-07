@@ -1061,8 +1061,8 @@ Der Pass 2 s02e08 +-
 Мастер (2025) A Working Man +-
 Гренландия 2: Миграция (2026) Greenland 2: Migration -.
 Исчезнувший (мини–сериал 2026 – ...) Vanished s01e04 +-
-Сводишь с ума (2025) -
-
+Сводишь с ума (2025) (кинопоиск 137) -
+Ограбление в Лос-Анджелесе (2026) Crime 101 -+
 
 On laptop:
 
@@ -1142,6 +1142,7 @@ Found:
     Long Flat Balls 3 (apetor)
     Вавилон 2022 (Вика)
     Long ma jing shen (джеки чан)
+	Грозовой перевал (2026) Wuthering Heights (Настя Евс)
 
 Сериалы не вышли:
     netflix documentary Винер (Weiner) (густавсон)
