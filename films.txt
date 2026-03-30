@@ -1067,6 +1067,7 @@ Der Pass 2 s02e08 +-
 Адамовы яблоки (2005) Adams æbler adam's apple +-
 На цепи (2025) Heel | good boy -+
 Удачи, веселья, не сдохни (2025) Good Luck, Have Fun, Don't Die +-
+Молодой Адам (2002) Young Adam +-
 
 
 On laptop:
