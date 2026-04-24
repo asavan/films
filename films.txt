@@ -1069,6 +1069,8 @@ Der Pass 2 s02e08 +-
 Удачи, веселья, не сдохни (2025) Good Luck, Have Fun, Don't Die +-
 Молодой Адам (2002) Young Adam +-
 Шулера (1998) Rounders +-
+Игрок (1992) The Player -+
+Бездельник (1990 1991) Slacker +
 
 
 On laptop:
@@ -1150,6 +1152,7 @@ Found:
     Вавилон 2022 (Вика)
     Long ma jing shen (джеки чан)
 	Грозовой перевал (2026) Wuthering Heights (Настя Евс)
+	Приглашение (2026) The Invite
 
 Сериалы не вышли:
     netflix documentary Винер (Weiner) (густавсон)
@@ -1285,6 +1288,9 @@ Found:
  Новая волна (2025) Nouvelle Vague https://www.kinopoisk.ru/film/6553389/ (https://www.youtube.com/@kinoogon)
  Сны поездов (2025) Train Dreams (https://www.youtube.com/@kinoogon)
  Сентиментальная ценность (2025) Affeksjonsverdi (https://www.youtube.com/@kinoogon)
+ Простые сложности Нико Фишера (2012) Oh Boy (Юра нестрашно)
+ Все страхи Бо (2023) Beau Is Afraid (Алиса black pantera)
+ Брайан и Чарльз (2021) Brian and Charles (Алиса black pantera)
 
  
  Флокал rentochka
