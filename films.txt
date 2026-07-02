@@ -1083,6 +1083,7 @@ Der Pass 2 s02e08 +-
 Ограбить Лондон (2025) Fuze +-
 Гражданин-мститель (2026) Citizen Vigilante -+
 Диспетчер (2024) Relay +-
+Obsession 2025 (тайский кинотеатр, настя евс) +-
 
 
 On laptop:
@@ -1153,6 +1154,7 @@ Found:
     Мы владеем этим городом (мини–сериал 2022) We Own This City (кинопоиск)
     Змей в Эссексе (мини–сериал 2022) The Essex Serpent (кинопоиск)
     Парень из электрички (мини–сериал 2005) Densha otoko https://www.kinopoisk.ru/series/390364/ (didididin)
+    widows bay (Серж)
 
 
 Еще не вышли:
@@ -1304,7 +1306,7 @@ Found:
  Орудия (2025) Weapons (Юра нестрашно)
  Я ругаюсь (2025) I Swear (Кайзи, кинопоиск 50)
  Доброе утро, Вьетнам (1987) Good Morning, Vietnam (Паша Григо)
- Obsession 2025 (тайский кинотеатр)
+ Over Your Dead Body (слон)
 
 
  Флокал rentochka
