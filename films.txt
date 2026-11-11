@@ -1097,9 +1097,10 @@ Silo s03e10 -+
 Пушпа (2021) Pushpa: The Rise - Part +.
 Источник вечной молодости (2025) Fountain of Youth +-
 Приглашение (2026) The Invite -+
-Гангстерленд (сериал 2025 – ...) MobLand s02e06 -+
+Гангстерленд (сериал 2025 – ...) MobLand s02e08 -+
 Золотая молодежь (2003) Bright Young Things +-
 Паршивые овцы (2025) Bad Apples +-
+Жизнь Чака (2024) The Life of Chuck -.
 
 
 On laptop:
@@ -1171,6 +1172,7 @@ Found:
     Змей в Эссексе (мини–сериал 2022) The Essex Serpent (кинопоиск)
     Парень из электрички (мини–сериал 2005) Densha otoko https://www.kinopoisk.ru/series/390364/ (didididin)
 	Основание (сериал 2021 – ...) Foundation https://www.kinopoisk.ru/series/462765/ (Ярослав, Москва)
+	Die Piefke-Saga (мини–сериал 1990) (Австрия)
 
 
 Еще не вышли:
@@ -1346,6 +1348,10 @@ Found:
  Дашра (2018) Dachra (Тунизия)
  Обитель зла (2026) Resident Evil
  Три брата (1995) Les trois frères (Франция)
+ Моя любовь (2015) Premam (Malar) (Индия)
+ Ночи Кумбаланги (2019) Kumbalangi Nights (Индия)
+ Гоморра (2008) Gomorra (Gomorrah) (Италия)
+ Взгляд изнутри (2000) Chopper (Австралия)
 
  Флокал rentochka
          короче я посмотрел свой леттербоксд и за последние пять лет из хороших/неплохих вышли:
